@@ -1,2 +1,0 @@
-# beca-spring
-Accenture Training
