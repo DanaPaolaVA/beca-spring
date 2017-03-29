@@ -14,6 +14,7 @@ public class ItemsController {
 	@RequestMapping(value = "/addItem")
 	public String addItem(@ModelAttribute ("item") List list) {
 		
+		
 		System.out.println("item: " + list.getItems());
 		
 		return "addItem";
