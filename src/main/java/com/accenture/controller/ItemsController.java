@@ -11,8 +11,6 @@ import com.accenture.model.List;
 @Controller
 public class ItemsController {
 	
-	
-
 	@RequestMapping(value = "/addItem")
 	public String addItem(@ModelAttribute ("item") List list) {
 		
