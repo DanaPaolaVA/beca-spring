@@ -18,7 +18,10 @@ public class ItemsController {
 			for(String item: list.getItems()){
 				System.out.println("item: " + item);
 			}
+			
+			System.out.println("Gracias por tu compra!");
 		}
+		
 		
 		
 		return "addItem";
