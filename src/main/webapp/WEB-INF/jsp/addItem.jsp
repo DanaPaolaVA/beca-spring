@@ -95,9 +95,7 @@ td{color:#0B0B61}
 		<h2>Select Items To Buy</h2>	
 
 <table>
-
-
-
+<th>Quantity</th>
  <form:form commandName="item">
  <form:checkbox path="items" value="Milk"/> Milk
  <form:checkbox path="items" value="Eggs"/> Eggs
