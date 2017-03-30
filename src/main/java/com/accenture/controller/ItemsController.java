@@ -19,7 +19,7 @@ public class ItemsController {
 				System.out.println("item: " + item);
 			}
 			
-			System.out.println("Gracias por tu compra!");
+			System.out.println("!Thank U For Buying¡");
 		}
 		
 		
